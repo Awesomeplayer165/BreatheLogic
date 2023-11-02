@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "revision" : "3dc6a42c7727c49bf26508e29b0a0b35f9c7e1ad",
+        "version" : "5.8.1"
+      }
+    },
+    {
+      "identity" : "bottomsheet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Awesomeplayer165/BottomSheet.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "468a416767030cb99ca4da1e5963e28043eb8f0a"
+      }
+    },
+    {
+      "identity" : "breatheshared",
+      "kind" : "remoteSourceControl",
+      "location" : "http://github.com/Awesomeplayer165/BreatheShared",
+      "state" : {
+        "branch" : "main",
+        "revision" : "64265a3e2c680afd39ea98f9e4b5a75eb0406142"
+      }
+    },
+    {
+      "identity" : "geos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GEOSwift/geos.git",
+      "state" : {
+        "revision" : "f510e634c822116fca615064d889300dba40d761",
+        "version" : "8.1.0"
+      }
+    },
+    {
+      "identity" : "geoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GEOSwift/GEOSwift",
+      "state" : {
+        "revision" : "2d23ede8c82c067655d3a9f0221bc73f08cd399a",
+        "version" : "10.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
