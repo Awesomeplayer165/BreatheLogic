@@ -18,7 +18,7 @@ public class BreatheServerAPI {
     private init() {}
     
     private class Endpoints {
-        private static let hostName = "https://Breatheaqi.jacob2.dev"
+        private static let hostName = "https://fumeaqi.jacob2.dev"
         
         public static func autocomplete(for query: String) -> String {
             "\(hostName)/autocomplete/\(query)"
